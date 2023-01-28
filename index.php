@@ -8,5 +8,6 @@
 </head>
 <body>
     <P>Hello World</P>
+    <p>Menambahkan paragraf</p>
 </body>
 </html>
